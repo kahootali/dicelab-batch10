@@ -9,3 +9,5 @@ Feature 3
 
 
 This is new feature
+
+Test Branch protection
